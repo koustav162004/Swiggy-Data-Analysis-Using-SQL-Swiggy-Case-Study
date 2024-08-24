@@ -1,7 +1,7 @@
 # Swiggy Data Analysis Using SQL
 ![image](https://github.com/user-attachments/assets/e7f5ff99-31cb-494b-88f4-35b2cf71f6a8)
 
-Here's the updated README with details on the dataset schema:
+
 
 ---
 
